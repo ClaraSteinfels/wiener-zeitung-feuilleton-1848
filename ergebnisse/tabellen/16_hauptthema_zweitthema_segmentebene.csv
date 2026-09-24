@@ -1,0 +1,20 @@
+﻿ebene;primary_topic;secondary_topic;n;bezugszahl_gesamt;anteil_gesamt_prozent;bezugszahl_hauptthema;anteil_hauptthema_prozent;bezugszahl_mit_zweitthema;anteil_mit_zweitthema_prozent;bezugszahl_zweitthema;anteil_zweitthema_prozent
+segmentebene;Kunst und Literatur;Gesellschaft und Zeitbetrachtung;7;168;4.2;50;14.0;39;17.9;17;41.2
+segmentebene;Kunst und Literatur;kein Zweitthema;43;168;25.6;50;86.0;;;;
+segmentebene;Wissenschaft und Technik;Kunst und Literatur;2;168;1.2;49;4.1;39;5.1;9;22.2
+segmentebene;Wissenschaft und Technik;Gesellschaft und Zeitbetrachtung;6;168;3.6;49;12.2;39;15.4;17;35.3
+segmentebene;Wissenschaft und Technik;Industrie und Wirtschaft;1;168;0.6;49;2.0;39;2.6;2;50.0
+segmentebene;Wissenschaft und Technik;kein Zweitthema;40;168;23.8;49;81.6;;;;
+segmentebene;Gesellschaft und Zeitbetrachtung;Kunst und Literatur;2;168;1.2;24;8.3;39;5.1;9;22.2
+segmentebene;Gesellschaft und Zeitbetrachtung;Industrie und Wirtschaft;1;168;0.6;24;4.2;39;2.6;2;50.0
+segmentebene;Gesellschaft und Zeitbetrachtung;Politik und Recht;6;168;3.6;24;25.0;39;15.4;7;85.7
+segmentebene;Gesellschaft und Zeitbetrachtung;kein Zweitthema;15;168;8.9;24;62.5;;;;
+segmentebene;Industrie und Wirtschaft;Wissenschaft und Technik;1;168;0.6;21;4.8;39;2.6;4;25.0
+segmentebene;Industrie und Wirtschaft;Gesellschaft und Zeitbetrachtung;2;168;1.2;21;9.5;39;5.1;17;11.8
+segmentebene;Industrie und Wirtschaft;Politik und Recht;1;168;0.6;21;4.8;39;2.6;7;14.3
+segmentebene;Industrie und Wirtschaft;kein Zweitthema;17;168;10.1;21;81.0;;;;
+segmentebene;Politik und Recht;Kunst und Literatur;5;168;3.0;22;22.7;39;12.8;9;55.6
+segmentebene;Politik und Recht;Wissenschaft und Technik;3;168;1.8;22;13.6;39;7.7;4;75.0
+segmentebene;Politik und Recht;Gesellschaft und Zeitbetrachtung;2;168;1.2;22;9.1;39;5.1;17;11.8
+segmentebene;Politik und Recht;kein Zweitthema;12;168;7.1;22;54.5;;;;
+segmentebene;unklar;kein Zweitthema;2;168;1.2;2;100.0;;;;

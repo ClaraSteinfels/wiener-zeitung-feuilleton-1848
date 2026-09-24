@@ -1,0 +1,26 @@
+﻿pruefung;status;hinweis
+Pflichtfelder vollständig;bestanden;
+Eingaben nicht leer;bestanden;
+Segment-IDs eindeutig;bestanden;
+Ausgaben-IDs vollständig und eindeutig;bestanden;
+Kodierung abgeschlossen;bestanden;
+Hauptthemen zulässig;bestanden;
+Zweitthemen zulässig;bestanden;
+Textformen zulässig;bestanden;
+Haupt- und Zweitthema verschieden;bestanden;
+Autorenstatus zulässig;bestanden;
+Ohne Autor entspricht fehlender Normalisierung;bestanden;
+Werkmetadaten konsistent;bestanden;
+Reihentyp zulässig;bestanden;
+Reihenkennungen konsistent;bestanden;
+Kodierung: Datum im Zeitraum;bestanden;
+Kodierung: Datum und Ausgaben-ID passen;bestanden;
+Ausgaben: Datum im Zeitraum;bestanden;
+Ausgaben: Datum und Ausgaben-ID passen;bestanden;
+Digitalisierungsstatus zulässig;bestanden;
+Feuilletonstatus dokumentiert;bestanden;
+Alle kodierten Ausgaben im Protokoll;bestanden;
+Feuilleton-Ausgaben stimmen überein;bestanden;Abweichende IDs: 
+Segmentseiten gültig;bestanden;
+Seitenzahlen im Protokoll gültig;bestanden;
+Seitenabgleich beider Tabellen;bestanden;

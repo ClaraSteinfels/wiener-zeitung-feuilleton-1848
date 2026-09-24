@@ -1,0 +1,9 @@
+﻿kennzahl;wert;hinweis
+Ausgabennummern im Zeitraum;179.0;alle 179 Ausgabennummern
+Digitalisierte Ausgaben;177.0;Nenner: alle Ausgabennummern
+Nicht digitalisierte Ausgaben;2.0;Nenner: alle Ausgabennummern
+Digitalisierte Ausgaben mit Feuilleton;115.0;Nenner: digitalisierte Ausgaben
+Anteil digitalisierter Ausgaben mit Feuilleton (%);65.0;Nenner: digitalisierte Ausgaben
+Summe nachgewiesener Feuilletonseiten;176.0;nur Ausgaben mit Feuilleton
+Mittlere Feuilletonseiten je Feuilleton-Ausgabe;1.53;nur Ausgaben mit Feuilleton
+Mittlere Segmente je Feuilleton-Ausgabe;1.46;nur Ausgaben mit Feuilleton

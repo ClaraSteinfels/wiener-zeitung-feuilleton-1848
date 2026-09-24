@@ -1,0 +1,10 @@
+﻿kennzahl;wert;hinweis
+Werke insgesamt;150;work_id
+Werke ohne Autor;43;work_id
+Werke mit nicht identifizierter Signatur;20;work_id
+Werke mit normalisierter Autorenbezeichnung;107;identifizierter Name oder stabiles Alias
+Davon nicht identifizierte Alias/Chiffren;20;z. B. Quidam
+Werke mit identifizierender Zuschreibung;87;gesichert, wahrscheinlich oder unsicher
+Davon gesichert oder wahrscheinlich;76;work_id
+Verschiedene normalisierte Autorenbezeichnungen;57;Namen, institutionelle Angaben und Aliasse
+Werke der drei häufigsten Autorenbezeichnungen;41;38.3 % der Werke mit Autorenbezeichnung
